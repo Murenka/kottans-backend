@@ -5,7 +5,8 @@
 * [task2-1.png](/Unix_Shell/task2-1.png)
 * [task2-2.png](/Unix_Shell/task2-2.png)
 * [task2-3.png](/Unix_Shell/task2-3.png)
-* [task2-3.png](/Unix_Shell/task2-4.png)
+* [task2-4.png](/Unix_Shell/task2-4.png)
+* [task2-5_optional.png](/Unix_Shell/task2-5_optional.png)
 
 ## 1. Git and GitHub
 
